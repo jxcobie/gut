@@ -1,0 +1,804 @@
+Uri: http://img3.uploadhouse.com/fileuploads/17737/17737011310213e71805ecf2292144cbbecf42ad.png
+File Name: C:\Downloaded Web Sites\service-tech.ca\fileuploads\17737\17737011310213e71805ecf2292144cbbecf42ad.png
+Content Type: image/png
+
+Uri: https://cdn.conveythis.com/javascript/conveythis-initializer.js
+File Name: C:\Downloaded Web Sites\service-tech.ca\javascript\conveythis-initializer.js
+Content Type: application/javascript
+
+Uri: https://cdn.weglot.com/weglot.min.js
+File Name: C:\Downloaded Web Sites\service-tech.ca\weglot.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i
+File Name: C:\Downloaded Web Sites\service-tech.ca\css-4
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Poppins&display=swap
+File Name: C:\Downloaded Web Sites\service-tech.ca\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:400,500,700,900&display=swap
+File Name: C:\Downloaded Web Sites\service-tech.ca\css-3
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Teko:300,400,500,600,700&display=swap
+File Name: C:\Downloaded Web Sites\service-tech.ca\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/opensans/v35/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\service-tech.ca\s\opensans\v35\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v35/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\service-tech.ca\s\opensans\v35\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v35/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\service-tech.ca\s\opensans\v35\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v35/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\service-tech.ca\s\opensans\v35\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v35/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\service-tech.ca\s\opensans\v35\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v35/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\service-tech.ca\s\opensans\v35\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v35/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\service-tech.ca\s\opensans\v35\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v35/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\service-tech.ca\s\opensans\v35\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v35/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\service-tech.ca\s\opensans\v35\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v35/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\service-tech.ca\s\opensans\v35\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\service-tech.ca\s\poppins\v20\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\service-tech.ca\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\service-tech.ca\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Downloaded Web Sites\service-tech.ca\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\service-tech.ca\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/teko/v16/LYjCdG7kmE0gdQhfsCRgrQ.ttf
+File Name: C:\Downloaded Web Sites\service-tech.ca\s\teko\v16\LYjCdG7kmE0gdQhfsCRgrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/teko/v16/LYjCdG7kmE0gdRhYsCRgrQ.ttf
+File Name: C:\Downloaded Web Sites\service-tech.ca\s\teko\v16\LYjCdG7kmE0gdRhYsCRgrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/teko/v16/LYjCdG7kmE0gdVBesCRgrQ.ttf
+File Name: C:\Downloaded Web Sites\service-tech.ca\s\teko\v16\LYjCdG7kmE0gdVBesCRgrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/teko/v16/LYjCdG7kmE0gdXxZsCRgrQ.ttf
+File Name: C:\Downloaded Web Sites\service-tech.ca\s\teko\v16\LYjCdG7kmE0gdXxZsCRgrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/teko/v16/LYjNdG7kmE0gfaN9oA.ttf
+File Name: C:\Downloaded Web Sites\service-tech.ca\s\teko\v16\LYjNdG7kmE0gfaN9oA.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\service-tech.ca\bootstrap\3.3.7\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Downloaded Web Sites\service-tech.ca\bootstrap\3.3.7\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/fonts/glyphicons-halflings-regular.eot?
+File Name: C:\Downloaded Web Sites\service-tech.ca\bootstrap\3.3.7\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Downloaded Web Sites\service-tech.ca\bootstrap\3.3.7\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Downloaded Web Sites\service-tech.ca\bootstrap\3.3.7\fonts\glyphicons-halflings-regular.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Downloaded Web Sites\service-tech.ca\bootstrap\3.3.7\fonts\glyphicons-halflings-regular.woff
+Content Type: font/woff
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/fonts/glyphicons-halflings-regular.woff2
+File Name: C:\Downloaded Web Sites\service-tech.ca\bootstrap\3.3.7\fonts\glyphicons-halflings-regular.woff2
+Content Type: font/woff2
+
+Uri: https://s.pageclip.co/v1/pageclip.js
+File Name: C:\Downloaded Web Sites\service-tech.ca\v1\pageclip.js
+Content Type: application/javascript
+
+Uri: https://service-tech.ca/
+File Name: C:\Downloaded Web Sites\service-tech.ca\index.htm
+Content Type: text/html
+
+Uri: https://service-tech.ca/about-1.html
+File Name: C:\Downloaded Web Sites\service-tech.ca\about-1.html
+Content Type: text/html
+
+Uri: https://service-tech.ca/contact-1.html
+File Name: C:\Downloaded Web Sites\service-tech.ca\contact-1.html
+Content Type: text/html
+
+Uri: https://service-tech.ca/css/bootstrap-select.min.css
+File Name: C:\Downloaded Web Sites\service-tech.ca\css\bootstrap-select.min.css
+Content Type: text/css
+
+Uri: https://service-tech.ca/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\service-tech.ca\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://service-tech.ca/css/flaticon.min.css
+File Name: C:\Downloaded Web Sites\service-tech.ca\css\flaticon.min.css
+Content Type: text/css
+
+Uri: https://service-tech.ca/css/fontawesome/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\service-tech.ca\css\fontawesome\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://service-tech.ca/css/fontawesome/fonts/fontawesome-webfont3e6e.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\service-tech.ca\css\fontawesome\fonts\fontawesome-webfont3e6e.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://service-tech.ca/css/fontawesome/fonts/fontawesome-webfont3e6e.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\service-tech.ca\css\fontawesome\fonts\fontawesome-webfont3e6e.svg
+Content Type: image/svg+xml
+
+Uri: https://service-tech.ca/css/fontawesome/fonts/fontawesome-webfont3e6e.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\service-tech.ca\css\fontawesome\fonts\fontawesome-webfont3e6e.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://service-tech.ca/css/fontawesome/fonts/fontawesome-webfont3e6e.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\service-tech.ca\css\fontawesome\fonts\fontawesome-webfont3e6e.woff2
+Content Type: font/woff2
+
+Uri: https://service-tech.ca/css/fontawesome/fonts/fontawesome-webfont3e6e.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\service-tech.ca\css\fontawesome\fonts\fontawesome-webfont3e6e.woff
+Content Type: application/x-font-woff
+
+Uri: https://service-tech.ca/css/fontawesome/fonts/fontawesome-webfontd41d.eot?
+File Name: C:\Downloaded Web Sites\service-tech.ca\css\fontawesome\fonts\fontawesome-webfontd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://service-tech.ca/css/lc_lightbox.css
+File Name: C:\Downloaded Web Sites\service-tech.ca\css\lc_lightbox.css
+Content Type: text/css
+
+Uri: https://service-tech.ca/css/loader.min.css
+File Name: C:\Downloaded Web Sites\service-tech.ca\css\loader.min.css
+Content Type: text/css
+
+Uri: https://service-tech.ca/css/magnific-popup.min.css
+File Name: C:\Downloaded Web Sites\service-tech.ca\css\magnific-popup.min.css
+Content Type: text/css
+
+Uri: https://service-tech.ca/css/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\service-tech.ca\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://service-tech.ca/css/owl.video.play.html
+File Name: C:\Downloaded Web Sites\service-tech.ca\css\owl.video.play.html
+Content Type: text/html
+
+Uri: https://service-tech.ca/css/skin/skin-2.css
+File Name: C:\Downloaded Web Sites\service-tech.ca\css\skin\skin-2.css
+Content Type: text/css
+
+Uri: https://service-tech.ca/css/style.css
+File Name: C:\Downloaded Web Sites\service-tech.ca\css\style.css
+Content Type: text/css
+
+Uri: https://service-tech.ca/css/switcher.css
+File Name: C:\Downloaded Web Sites\service-tech.ca\css\switcher.css
+Content Type: text/css
+
+Uri: https://service-tech.ca/Faq.html
+File Name: C:\Downloaded Web Sites\service-tech.ca\Faq.html
+Content Type: text/html
+
+Uri: https://service-tech.ca/fonts/Flaticon.eot
+File Name: C:\Downloaded Web Sites\service-tech.ca\fonts\Flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://service-tech.ca/fonts/Flaticon.svg
+File Name: C:\Downloaded Web Sites\service-tech.ca\fonts\Flaticon.svg
+Content Type: image/svg+xml
+
+Uri: https://service-tech.ca/fonts/Flaticon.ttf
+File Name: C:\Downloaded Web Sites\service-tech.ca\fonts\Flaticon.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://service-tech.ca/fonts/Flaticon.woff
+File Name: C:\Downloaded Web Sites\service-tech.ca\fonts\Flaticon.woff
+Content Type: application/x-font-woff
+
+Uri: https://service-tech.ca/fonts/Flaticond41d.eot?
+File Name: C:\Downloaded Web Sites\service-tech.ca\fonts\Flaticond41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://service-tech.ca/fonts/lc_lightbox.eot
+File Name: C:\Downloaded Web Sites\service-tech.ca\fonts\lc_lightbox.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://service-tech.ca/fonts/lc_lightbox.svg
+File Name: C:\Downloaded Web Sites\service-tech.ca\fonts\lc_lightbox.svg
+Content Type: image/svg+xml
+
+Uri: https://service-tech.ca/fonts/lc_lightbox.ttf
+File Name: C:\Downloaded Web Sites\service-tech.ca\fonts\lc_lightbox.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://service-tech.ca/fonts/lc_lightbox.woff
+File Name: C:\Downloaded Web Sites\service-tech.ca\fonts\lc_lightbox.woff
+Content Type: application/x-font-woff
+
+Uri: https://service-tech.ca/images/background/bg-2.jpg
+File Name: C:\Downloaded Web Sites\service-tech.ca\images\background\bg-2.jpg
+Content Type: image/jpeg
+
+Uri: https://service-tech.ca/images/background/bg-7.jpg
+File Name: C:\Downloaded Web Sites\service-tech.ca\images\background\bg-7.jpg
+Content Type: image/jpeg
+
+Uri: https://service-tech.ca/images/background/bg-map-white.png
+File Name: C:\Downloaded Web Sites\service-tech.ca\images\background\bg-map-white.png
+Content Type: image/png
+
+Uri: https://service-tech.ca/images/background/bg-map.png
+File Name: C:\Downloaded Web Sites\service-tech.ca\images\background\bg-map.png
+Content Type: image/png
+
+Uri: https://service-tech.ca/images/background/bg-map2.png
+File Name: C:\Downloaded Web Sites\service-tech.ca\images\background\bg-map2.png
+Content Type: image/png
+
+Uri: https://service-tech.ca/images/background/brush-left.html
+File Name: C:\Downloaded Web Sites\service-tech.ca\images\background\brush-left.html
+Content Type: text/html
+
+Uri: https://service-tech.ca/images/background/count-bg.html
+File Name: C:\Downloaded Web Sites\service-tech.ca\images\background\count-bg.html
+Content Type: text/html
+
+Uri: https://service-tech.ca/images/background/girl-right.html
+File Name: C:\Downloaded Web Sites\service-tech.ca\images\background\girl-right.html
+Content Type: text/html
+
+Uri: https://service-tech.ca/images/background/self-info-bg.png
+File Name: C:\Downloaded Web Sites\service-tech.ca\images\background\self-info-bg.png
+Content Type: image/png
+
+Uri: https://service-tech.ca/images/banner/2.jpg
+File Name: C:\Downloaded Web Sites\service-tech.ca\images\banner\2.jpg
+Content Type: image/jpeg
+
+Uri: https://service-tech.ca/images/banner/3.jpg
+File Name: C:\Downloaded Web Sites\service-tech.ca\images\banner\3.jpg
+Content Type: image/jpeg
+
+Uri: https://service-tech.ca/images/banner/5.jpg
+File Name: C:\Downloaded Web Sites\service-tech.ca\images\banner\5.jpg
+Content Type: image/jpeg
+
+Uri: https://service-tech.ca/images/banner/8.jpg
+File Name: C:\Downloaded Web Sites\service-tech.ca\images\banner\8.jpg
+Content Type: image/jpeg
+
+Uri: https://service-tech.ca/images/clients/az.jpg
+File Name: C:\Downloaded Web Sites\service-tech.ca\images\clients\az.jpg
+Content Type: image/jpeg
+
+Uri: https://service-tech.ca/images/clients/db optix.jpg
+File Name: C:\Downloaded Web Sites\service-tech.ca\images\clients\db optix.jpg
+Content Type: image/jpeg
+
+Uri: https://service-tech.ca/images/clients/dbm-reflex-squarelogo-1634302891051.png
+File Name: C:\Downloaded Web Sites\service-tech.ca\images\clients\dbm-reflex-squarelogo-1634302891051.png
+Content Type: image/png
+
+Uri: https://service-tech.ca/images/clients/logo.png
+File Name: C:\Downloaded Web Sites\service-tech.ca\images\clients\logo.png
+Content Type: image/png
+
+Uri: https://service-tech.ca/images/clients/max_atlas.jpg
+File Name: C:\Downloaded Web Sites\service-tech.ca\images\clients\max_atlas.jpg
+Content Type: image/jpeg
+
+Uri: https://service-tech.ca/images/clients/metalware.png
+File Name: C:\Downloaded Web Sites\service-tech.ca\images\clients\metalware.png
+Content Type: image/png
+
+Uri: https://service-tech.ca/images/clients/rdc.png
+File Name: C:\Downloaded Web Sites\service-tech.ca\images\clients\rdc.png
+Content Type: image/png
+
+Uri: https://service-tech.ca/images/clients/rolland.png
+File Name: C:\Downloaded Web Sites\service-tech.ca\images\clients\rolland.png
+Content Type: image/png
+
+Uri: https://service-tech.ca/images/clients/spectra premium.jpg
+File Name: C:\Downloaded Web Sites\service-tech.ca\images\clients\spectra premium.jpg
+Content Type: image/jpeg
+
+Uri: https://service-tech.ca/images/colarge/s1.jpg
+File Name: C:\Downloaded Web Sites\service-tech.ca\images\colarge\s1.jpg
+Content Type: image/jpeg
+
+Uri: https://service-tech.ca/images/colarge/s2.jpg
+File Name: C:\Downloaded Web Sites\service-tech.ca\images\colarge\s2.jpg
+Content Type: image/jpeg
+
+Uri: https://service-tech.ca/images/favicon.html
+File Name: C:\Downloaded Web Sites\service-tech.ca\images\favicon.html
+Content Type: text/html
+
+Uri: https://service-tech.ca/images/favicon.png
+File Name: C:\Downloaded Web Sites\service-tech.ca\images\favicon.png
+Content Type: image/png
+
+Uri: https://service-tech.ca/images/gallery/pic1.jpg
+File Name: C:\Downloaded Web Sites\service-tech.ca\images\gallery\pic1.jpg
+Content Type: image/jpeg
+
+Uri: https://service-tech.ca/images/gallery/pic2.jpg
+File Name: C:\Downloaded Web Sites\service-tech.ca\images\gallery\pic2.jpg
+Content Type: image/jpeg
+
+Uri: https://service-tech.ca/images/gallery/pic3.jpg
+File Name: C:\Downloaded Web Sites\service-tech.ca\images\gallery\pic3.jpg
+Content Type: image/jpeg
+
+Uri: https://service-tech.ca/images/gallery/pic4.jpg
+File Name: C:\Downloaded Web Sites\service-tech.ca\images\gallery\pic4.jpg
+Content Type: image/jpeg
+
+Uri: https://service-tech.ca/images/gallery/thumb/pic1.jpg
+File Name: C:\Downloaded Web Sites\service-tech.ca\images\gallery\thumb\pic1.jpg
+Content Type: image/jpeg
+
+Uri: https://service-tech.ca/images/gallery/thumb/pic2.jpg
+File Name: C:\Downloaded Web Sites\service-tech.ca\images\gallery\thumb\pic2.jpg
+Content Type: image/jpeg
+
+Uri: https://service-tech.ca/images/gallery/thumb/pic3.jpg
+File Name: C:\Downloaded Web Sites\service-tech.ca\images\gallery\thumb\pic3.jpg
+Content Type: image/jpeg
+
+Uri: https://service-tech.ca/images/gallery/thumb/pic4.jpg
+File Name: C:\Downloaded Web Sites\service-tech.ca\images\gallery\thumb\pic4.jpg
+Content Type: image/jpeg
+
+Uri: https://service-tech.ca/images/gallery/thumb/pic5.jpg
+File Name: C:\Downloaded Web Sites\service-tech.ca\images\gallery\thumb\pic5.jpg
+Content Type: image/jpeg
+
+Uri: https://service-tech.ca/images/gallery/thumb/pic6.jpg
+File Name: C:\Downloaded Web Sites\service-tech.ca\images\gallery\thumb\pic6.jpg
+Content Type: image/jpeg
+
+Uri: https://service-tech.ca/images/logo.png
+File Name: C:\Downloaded Web Sites\service-tech.ca\images\logo.png
+Content Type: image/png
+
+Uri: https://service-tech.ca/images/main-slider/slider9/slide1.jpg
+File Name: C:\Downloaded Web Sites\service-tech.ca\images\main-slider\slider9\slide1.jpg
+Content Type: image/jpeg
+
+Uri: https://service-tech.ca/images/projects/1.jpg
+File Name: C:\Downloaded Web Sites\service-tech.ca\images\projects\1.jpg
+Content Type: image/jpeg
+
+Uri: https://service-tech.ca/images/projects/2.jpg
+File Name: C:\Downloaded Web Sites\service-tech.ca\images\projects\2.jpg
+Content Type: image/jpeg
+
+Uri: https://service-tech.ca/images/projects/3.jpg
+File Name: C:\Downloaded Web Sites\service-tech.ca\images\projects\3.jpg
+Content Type: image/jpeg
+
+Uri: https://service-tech.ca/images/projects/4.jpg
+File Name: C:\Downloaded Web Sites\service-tech.ca\images\projects\4.jpg
+Content Type: image/jpeg
+
+Uri: https://service-tech.ca/images/self-pic.png
+File Name: C:\Downloaded Web Sites\service-tech.ca\images\self-pic.png
+Content Type: image/png
+
+Uri: https://service-tech.ca/images/testimonials/bg-left.png
+File Name: C:\Downloaded Web Sites\service-tech.ca\images\testimonials\bg-left.png
+Content Type: image/png
+
+Uri: https://service-tech.ca/images/testimonials/pic1.jpg
+File Name: C:\Downloaded Web Sites\service-tech.ca\images\testimonials\pic1.jpg
+Content Type: image/jpeg
+
+Uri: https://service-tech.ca/images/testimonials/pic2.jpg
+File Name: C:\Downloaded Web Sites\service-tech.ca\images\testimonials\pic2.jpg
+Content Type: image/jpeg
+
+Uri: https://service-tech.ca/images/testimonials/pic3.jpg
+File Name: C:\Downloaded Web Sites\service-tech.ca\images\testimonials\pic3.jpg
+Content Type: image/jpeg
+
+Uri: https://service-tech.ca/images/testimonials/pic4.jpg
+File Name: C:\Downloaded Web Sites\service-tech.ca\images\testimonials\pic4.jpg
+Content Type: image/jpeg
+
+Uri: https://service-tech.ca/images/ui-9/background/bg-1.jpg
+File Name: C:\Downloaded Web Sites\service-tech.ca\images\ui-9\background\bg-1.jpg
+Content Type: image/jpeg
+
+Uri: https://service-tech.ca/images/ui-9/background/bg-dott2.png
+File Name: C:\Downloaded Web Sites\service-tech.ca\images\ui-9\background\bg-dott2.png
+Content Type: image/png
+
+Uri: https://service-tech.ca/images/ui-9/background/bg-map2.png
+File Name: C:\Downloaded Web Sites\service-tech.ca\images\ui-9\background\bg-map2.png
+Content Type: image/png
+
+Uri: https://service-tech.ca/images/ui-9/intro-pic.jpg
+File Name: C:\Downloaded Web Sites\service-tech.ca\images\ui-9\intro-pic.jpg
+Content Type: image/jpeg
+
+Uri: https://service-tech.ca/img/patterns/oblique_dots.html
+File Name: C:\Downloaded Web Sites\service-tech.ca\img\patterns\oblique_dots.html
+Content Type: text/html
+
+Uri: https://service-tech.ca/img/patterns/pattern-1.html
+File Name: C:\Downloaded Web Sites\service-tech.ca\img\patterns\pattern-1.html
+Content Type: text/html
+
+Uri: https://service-tech.ca/img/patterns/pattern-dot-1.html
+File Name: C:\Downloaded Web Sites\service-tech.ca\img\patterns\pattern-dot-1.html
+Content Type: text/html
+
+Uri: https://service-tech.ca/img/patterns/pattern-dot-2.html
+File Name: C:\Downloaded Web Sites\service-tech.ca\img\patterns\pattern-dot-2.html
+Content Type: text/html
+
+Uri: https://service-tech.ca/img/patterns/pattern-dot-b1.html
+File Name: C:\Downloaded Web Sites\service-tech.ca\img\patterns\pattern-dot-b1.html
+Content Type: text/html
+
+Uri: https://service-tech.ca/img/patterns/pattern-dot-b2.html
+File Name: C:\Downloaded Web Sites\service-tech.ca\img\patterns\pattern-dot-b2.html
+Content Type: text/html
+
+Uri: https://service-tech.ca/img/patterns/pattern-dot-b3.html
+File Name: C:\Downloaded Web Sites\service-tech.ca\img\patterns\pattern-dot-b3.html
+Content Type: text/html
+
+Uri: https://service-tech.ca/img/patterns/pattern-dot-b4.html
+File Name: C:\Downloaded Web Sites\service-tech.ca\img\patterns\pattern-dot-b4.html
+Content Type: text/html
+
+Uri: https://service-tech.ca/img/patterns/pattern-triangle-05.html
+File Name: C:\Downloaded Web Sites\service-tech.ca\img\patterns\pattern-triangle-05.html
+Content Type: text/html
+
+Uri: https://service-tech.ca/img/patterns/pattern-triangle-10.html
+File Name: C:\Downloaded Web Sites\service-tech.ca\img\patterns\pattern-triangle-10.html
+Content Type: text/html
+
+Uri: https://service-tech.ca/img/patterns/pattern-triangle-20.html
+File Name: C:\Downloaded Web Sites\service-tech.ca\img\patterns\pattern-triangle-20.html
+Content Type: text/html
+
+Uri: https://service-tech.ca/img/patterns/pattern-triangle-30.html
+File Name: C:\Downloaded Web Sites\service-tech.ca\img\patterns\pattern-triangle-30.html
+Content Type: text/html
+
+Uri: https://service-tech.ca/img/patterns/pattern-triangle-40.html
+File Name: C:\Downloaded Web Sites\service-tech.ca\img\patterns\pattern-triangle-40.html
+Content Type: text/html
+
+Uri: https://service-tech.ca/img/patterns/pattern-ver-line-10.html
+File Name: C:\Downloaded Web Sites\service-tech.ca\img\patterns\pattern-ver-line-10.html
+Content Type: text/html
+
+Uri: https://service-tech.ca/img/patterns/pattern-ver-line-20.html
+File Name: C:\Downloaded Web Sites\service-tech.ca\img\patterns\pattern-ver-line-20.html
+Content Type: text/html
+
+Uri: https://service-tech.ca/img/patterns/pattern-ver-line-30.html
+File Name: C:\Downloaded Web Sites\service-tech.ca\img\patterns\pattern-ver-line-30.html
+Content Type: text/html
+
+Uri: https://service-tech.ca/img/patterns/pattern-ver-line-40.html
+File Name: C:\Downloaded Web Sites\service-tech.ca\img\patterns\pattern-ver-line-40.html
+Content Type: text/html
+
+Uri: https://service-tech.ca/img/patterns/pattern-ver-line-50.html
+File Name: C:\Downloaded Web Sites\service-tech.ca\img\patterns\pattern-ver-line-50.html
+Content Type: text/html
+
+Uri: https://service-tech.ca/index.html
+File Name: C:\Downloaded Web Sites\service-tech.ca\index.html
+Content Type: text/html
+
+Uri: https://service-tech.ca/js/bootstrap-select.min.js
+File Name: C:\Downloaded Web Sites\service-tech.ca\js\bootstrap-select.min.js
+Content Type: application/javascript
+
+Uri: https://service-tech.ca/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\service-tech.ca\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://service-tech.ca/js/counterup.min.js
+File Name: C:\Downloaded Web Sites\service-tech.ca\js\counterup.min.js
+Content Type: application/javascript
+
+Uri: https://service-tech.ca/js/custom.js
+File Name: C:\Downloaded Web Sites\service-tech.ca\js\custom.js
+Content Type: application/javascript
+
+Uri: https://service-tech.ca/js/isotope.pkgd.min.js
+File Name: C:\Downloaded Web Sites\service-tech.ca\js\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://service-tech.ca/js/jquery-2.2.0.min.js
+File Name: C:\Downloaded Web Sites\service-tech.ca\js\jquery-2.2.0.min.js
+Content Type: application/javascript
+
+Uri: https://service-tech.ca/js/jquery.bootstrap-touchspin.js
+File Name: C:\Downloaded Web Sites\service-tech.ca\js\jquery.bootstrap-touchspin.js
+Content Type: application/javascript
+
+Uri: https://service-tech.ca/js/lc_lightbox.lite.js
+File Name: C:\Downloaded Web Sites\service-tech.ca\js\lc_lightbox.lite.js
+Content Type: application/javascript
+
+Uri: https://service-tech.ca/js/magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\service-tech.ca\js\magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://service-tech.ca/js/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\service-tech.ca\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://service-tech.ca/js/popper.min.js
+File Name: C:\Downloaded Web Sites\service-tech.ca\js\popper.min.js
+Content Type: application/javascript
+
+Uri: https://service-tech.ca/js/rev-script-9.js
+File Name: C:\Downloaded Web Sites\service-tech.ca\js\rev-script-9.js
+Content Type: application/javascript
+
+Uri: https://service-tech.ca/js/stellar.min.js
+File Name: C:\Downloaded Web Sites\service-tech.ca\js\stellar.min.js
+Content Type: application/javascript
+
+Uri: https://service-tech.ca/js/switcher.js
+File Name: C:\Downloaded Web Sites\service-tech.ca\js\switcher.js
+Content Type: application/javascript
+
+Uri: https://service-tech.ca/js/theia-sticky-sidebar.js
+File Name: C:\Downloaded Web Sites\service-tech.ca\js\theia-sticky-sidebar.js
+Content Type: application/javascript
+
+Uri: https://service-tech.ca/js/waypoints-sticky.min.js
+File Name: C:\Downloaded Web Sites\service-tech.ca\js\waypoints-sticky.min.js
+Content Type: application/javascript
+
+Uri: https://service-tech.ca/js/waypoints.min.js
+File Name: C:\Downloaded Web Sites\service-tech.ca\js\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://service-tech.ca/plugins/revolution/revolution/assets/coloredbg.png
+File Name: C:\Downloaded Web Sites\service-tech.ca\plugins\revolution\revolution\assets\coloredbg.png
+Content Type: image/png
+
+Uri: https://service-tech.ca/plugins/revolution/revolution/assets/gridtile.png
+File Name: C:\Downloaded Web Sites\service-tech.ca\plugins\revolution\revolution\assets\gridtile.png
+Content Type: image/png
+
+Uri: https://service-tech.ca/plugins/revolution/revolution/assets/gridtile_3x3.png
+File Name: C:\Downloaded Web Sites\service-tech.ca\plugins\revolution\revolution\assets\gridtile_3x3.png
+Content Type: image/png
+
+Uri: https://service-tech.ca/plugins/revolution/revolution/assets/gridtile_3x3_white.png
+File Name: C:\Downloaded Web Sites\service-tech.ca\plugins\revolution\revolution\assets\gridtile_3x3_white.png
+Content Type: image/png
+
+Uri: https://service-tech.ca/plugins/revolution/revolution/assets/gridtile_white.png
+File Name: C:\Downloaded Web Sites\service-tech.ca\plugins\revolution\revolution\assets\gridtile_white.png
+Content Type: image/png
+
+Uri: https://service-tech.ca/plugins/revolution/revolution/assets/loader.gif
+File Name: C:\Downloaded Web Sites\service-tech.ca\plugins\revolution\revolution\assets\loader.gif
+Content Type: image/gif
+
+Uri: https://service-tech.ca/plugins/revolution/revolution/css/closedhand.cur
+File Name: C:\Downloaded Web Sites\service-tech.ca\plugins\revolution\revolution\css\closedhand.cur
+Content Type: application/octet-stream
+
+Uri: https://service-tech.ca/plugins/revolution/revolution/css/navigation.css
+File Name: C:\Downloaded Web Sites\service-tech.ca\plugins\revolution\revolution\css\navigation.css
+Content Type: text/css
+
+Uri: https://service-tech.ca/plugins/revolution/revolution/css/openhand.cur
+File Name: C:\Downloaded Web Sites\service-tech.ca\plugins\revolution\revolution\css\openhand.cur
+Content Type: application/octet-stream
+
+Uri: https://service-tech.ca/plugins/revolution/revolution/css/settings.css
+File Name: C:\Downloaded Web Sites\service-tech.ca\plugins\revolution\revolution\css\settings.css
+Content Type: text/css
+
+Uri: https://service-tech.ca/plugins/revolution/revolution/fonts/revicons/revicons90c6.eot?5510888
+File Name: C:\Downloaded Web Sites\service-tech.ca\plugins\revolution\revolution\fonts\revicons\revicons90c6.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://service-tech.ca/plugins/revolution/revolution/fonts/revicons/revicons90c6.svg?5510888
+File Name: C:\Downloaded Web Sites\service-tech.ca\plugins\revolution\revolution\fonts\revicons\revicons90c6.svg
+Content Type: image/svg+xml
+
+Uri: https://service-tech.ca/plugins/revolution/revolution/fonts/revicons/revicons90c6.ttf?5510888
+File Name: C:\Downloaded Web Sites\service-tech.ca\plugins\revolution\revolution\fonts\revicons\revicons90c6.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://service-tech.ca/plugins/revolution/revolution/fonts/revicons/revicons90c6.woff?5510888
+File Name: C:\Downloaded Web Sites\service-tech.ca\plugins\revolution\revolution\fonts\revicons\revicons90c6.woff
+Content Type: application/x-font-woff
+
+Uri: https://service-tech.ca/plugins/revolution/revolution/js/extensions/revolution-plugin.js
+File Name: C:\Downloaded Web Sites\service-tech.ca\plugins\revolution\revolution\js\extensions\revolution-plugin.js
+Content Type: application/javascript
+
+Uri: https://service-tech.ca/plugins/revolution/revolution/js/jquery.themepunch.revolution.min.js
+File Name: C:\Downloaded Web Sites\service-tech.ca\plugins\revolution\revolution\js\jquery.themepunch.revolution.min.js
+Content Type: application/javascript
+
+Uri: https://service-tech.ca/plugins/revolution/revolution/js/jquery.themepunch.tools.min.js
+File Name: C:\Downloaded Web Sites\service-tech.ca\plugins\revolution\revolution\js\jquery.themepunch.tools.min.js
+Content Type: application/javascript
+
+Uri: https://service-tech.ca/project-detail1.html
+File Name: C:\Downloaded Web Sites\service-tech.ca\project-detail1.html
+Content Type: text/html
+
+Uri: https://service-tech.ca/project-detail2.html
+File Name: C:\Downloaded Web Sites\service-tech.ca\project-detail2.html
+Content Type: text/html
+
+Uri: https://service-tech.ca/project-detail3.html
+File Name: C:\Downloaded Web Sites\service-tech.ca\project-detail3.html
+Content Type: text/html
+
+Uri: https://service-tech.ca/project-detail4.html
+File Name: C:\Downloaded Web Sites\service-tech.ca\project-detail4.html
+Content Type: text/html
+
+Uri: https://service-tech.ca/project-detail5.html
+File Name: C:\Downloaded Web Sites\service-tech.ca\project-detail5.html
+Content Type: text/html
+
+Uri: https://service-tech.ca/project-detail6.html
+File Name: C:\Downloaded Web Sites\service-tech.ca\project-detail6.html
+Content Type: text/html
+
+Uri: https://service-tech.ca/project-grid.html
+File Name: C:\Downloaded Web Sites\service-tech.ca\project-grid.html
+Content Type: text/html
+
+Uri: https://service-tech.ca/services-1.html
+File Name: C:\Downloaded Web Sites\service-tech.ca\services-1.html
+Content Type: text/html
+
+Uri: https://thewebmax.org/industro/images/background/bg-7.jpg
+File Name: C:\Downloaded Web Sites\service-tech.ca\industro\images\background\bg-7.jpg
+Content Type: image/jpeg
+
+Uri: https://thewebmax.org/industro/images/background/bg-map2.png
+File Name: C:\Downloaded Web Sites\service-tech.ca\industro\images\background\bg-map2.png
+Content Type: image/png
+
+Uri: https://thewebmax.org/industro/images/banner/8.jpg
+File Name: C:\Downloaded Web Sites\service-tech.ca\industro\images\banner\8.jpg
+Content Type: image/jpeg
+
+Uri: https://thewebmax.org/industro/images/self-pic.png
+File Name: C:\Downloaded Web Sites\service-tech.ca\industro\images\self-pic.png
+Content Type: image/png
+
+Uri: https://thewebmax.org/industro/js/bootstrap-select.min.js
+File Name: C:\Downloaded Web Sites\service-tech.ca\industro\js\bootstrap-select.min.js
+Content Type: application/x-javascript
+
+Uri: https://thewebmax.org/industro/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\service-tech.ca\industro\js\bootstrap.min.js
+Content Type: application/x-javascript
+
+Uri: https://thewebmax.org/industro/js/counterup.min.js
+File Name: C:\Downloaded Web Sites\service-tech.ca\industro\js\counterup.min.js
+Content Type: application/x-javascript
+
+Uri: https://thewebmax.org/industro/js/custom.js
+File Name: C:\Downloaded Web Sites\service-tech.ca\industro\js\custom.js
+Content Type: application/x-javascript
+
+Uri: https://thewebmax.org/industro/js/isotope.pkgd.min.js
+File Name: C:\Downloaded Web Sites\service-tech.ca\industro\js\isotope.pkgd.min.js
+Content Type: application/x-javascript
+
+Uri: https://thewebmax.org/industro/js/jquery-2.2.0.min.js
+File Name: C:\Downloaded Web Sites\service-tech.ca\industro\js\jquery-2.2.0.min.js
+Content Type: application/x-javascript
+
+Uri: https://thewebmax.org/industro/js/jquery.bootstrap-touchspin.js
+File Name: C:\Downloaded Web Sites\service-tech.ca\industro\js\jquery.bootstrap-touchspin.js
+Content Type: application/x-javascript
+
+Uri: https://thewebmax.org/industro/js/lc_lightbox.lite.js
+File Name: C:\Downloaded Web Sites\service-tech.ca\industro\js\lc_lightbox.lite.js
+Content Type: application/x-javascript
+
+Uri: https://thewebmax.org/industro/js/magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\service-tech.ca\industro\js\magnific-popup.min.js
+Content Type: application/x-javascript
+
+Uri: https://thewebmax.org/industro/js/map.script.js
+File Name: C:\Downloaded Web Sites\service-tech.ca\industro\js\map.script.js
+Content Type: application/x-javascript
+
+Uri: https://thewebmax.org/industro/js/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\service-tech.ca\industro\js\owl.carousel.min.js
+Content Type: application/x-javascript
+
+Uri: https://thewebmax.org/industro/js/popper.min.js
+File Name: C:\Downloaded Web Sites\service-tech.ca\industro\js\popper.min.js
+Content Type: application/x-javascript
+
+Uri: https://thewebmax.org/industro/js/stellar.min.js
+File Name: C:\Downloaded Web Sites\service-tech.ca\industro\js\stellar.min.js
+Content Type: application/x-javascript
+
+Uri: https://thewebmax.org/industro/js/switcher.js
+File Name: C:\Downloaded Web Sites\service-tech.ca\industro\js\switcher.js
+Content Type: application/x-javascript
+
+Uri: https://thewebmax.org/industro/js/theia-sticky-sidebar.js
+File Name: C:\Downloaded Web Sites\service-tech.ca\industro\js\theia-sticky-sidebar.js
+Content Type: application/x-javascript
+
+Uri: https://thewebmax.org/industro/js/waypoints-sticky.min.js
+File Name: C:\Downloaded Web Sites\service-tech.ca\industro\js\waypoints-sticky.min.js
+Content Type: application/x-javascript
+
+Uri: https://thewebmax.org/industro/js/waypoints.min.js
+File Name: C:\Downloaded Web Sites\service-tech.ca\industro\js\waypoints.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.google.com/recaptcha/api.js
+File Name: C:\Downloaded Web Sites\service-tech.ca\recaptcha\api.js
+Content Type: text/javascript
+

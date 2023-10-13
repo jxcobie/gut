@@ -1,0 +1,523 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no">
+        <title>Sales Admin</title>
+        <link rel="icon" type="image/x-icon" href="../src/assets/img/favicon.ico"/>
+        <link href="../layouts/collapsible-menu/css/light/loader.css" rel="stylesheet" type="text/css" />
+        <link href="../layouts/collapsible-menu/css/dark/loader.css" rel="stylesheet" type="text/css" />
+        <script src="../layouts/collapsible-menu/loader.js"></script>
+        <!-- BEGIN GLOBAL MANDATORY STYLES -->
+        <link href="https://fonts.googleapis.com/css?family=Nunito:400,600,700" rel="stylesheet">
+        <link href="../src/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+        <link href="../layouts/collapsible-menu/css/light/plugins.css" rel="stylesheet" type="text/css" />
+        <link href="../layouts/collapsible-menu/css/dark/plugins.css" rel="stylesheet" type="text/css" />
+        <!-- END GLOBAL MANDATORY STYLES -->
+
+        <!-- BEGIN PAGE LEVEL PLUGINS/CUSTOM STYLES -->
+        <link href="../src/plugins/src/apex/apexcharts.css" rel="stylesheet" type="text/css">
+        <link href="../src/assets/css/light/components/list-group.css" rel="stylesheet" type="text/css">
+        <link href="../src/assets/css/light/dashboard/dash_2.css" rel="stylesheet" type="text/css" />
+
+        <link href="../src/assets/css/dark/components/list-group.css" rel="stylesheet" type="text/css">
+        <link href="../src/assets/css/dark/dashboard/dash_2.css" rel="stylesheet" type="text/css" />
+        <style>
+            #imagePreview {
+                max-width: 200px;
+                margin-top: 10px;
+                border-radius: 5px;
+            }
+            .custom-file-label {
+                display: inline-block;
+                padding: 3px 12px;
+                cursor: pointer;
+                background-color: #ffffff;
+                color: #FFFFFF;
+                border: none;
+                border-radius: 4px;
+                font-size: 10px;
+            }
+        </style>
+
+        <script>
+            function previewImage(event) {
+                var reader = new FileReader();
+                reader.onload = function() {
+                    var output = document.getElementById('imagePreview');
+                    output.src = reader.result;
+                    output.style.display = 'block'; // Display the image after it's loaded
+
+                    // Hide the label once the image is uploaded
+                    var label = document.querySelector('.custom-file-label');
+                    label.style.display = 'none';
+                }
+                reader.readAsDataURL(event.target.files[0]);
+            }
+
+            function changeImage() {
+                document.getElementById('imageInput').click();
+            }
+        </script>
+        <!-- END PAGE LEVEL PLUGINS/CUSTOM STYLES -->
+
+    </head>
+    <body class="layout-boxed" layout="full-width" page="starter-pack">
+
+        <!-- BEGIN LOADER -->
+        <div id="load_screen"> <div class="loader"> <div class="loader-content">
+            <div class="spinner-grow align-self-center"></div>
+        </div></div></div>
+        <!--  END LOADER -->
+
+        <!--  BEGIN NAVBAR  -->
+        <div class="header-container">
+            <header class="header navbar navbar-expand-sm expand-header">
+
+                <a href="javascript:void(0);" class="nav-link theme-toggle p-0">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-moon dark-mode"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path></svg>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-sun light-mode"><circle cx="12" cy="12" r="5"></circle><line x1="12" y1="1" x2="12" y2="3"></line><line x1="12" y1="21" x2="12" y2="23"></line><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line><line x1="1" y1="12" x2="3" y2="12"></line><line x1="21" y1="12" x2="23" y2="12"></line><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line></svg>
+                </a>
+
+                <a href="javascript:void(0);" class="sidebarCollapse">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-menu"><line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line></svg>
+                </a>
+
+                <ul class="navbar-item flex-row ms-lg-auto ms-0">
+
+                    <li class="nav-item dropdown user-profile-dropdown  order-lg-0 order-1">
+
+                        <div class="dropdown-menu position-absolute" aria-labelledby="userProfileDropdown">
+                            <div class="dropdown-item">
+                                <a href="javascript:void(0);">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-user"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path><circle cx="12" cy="7" r="4"></circle></svg> <span>Profile</span>
+                                </a>
+                            </div>
+                            <div class="dropdown-item">
+                                <a href="javascript:void(0);">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-inbox"><polyline points="22 12 16 12 14 15 10 15 8 12 2 12"></polyline><path d="M5.45 5.11L2 12v6a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-6l-3.45-6.89A2 2 0 0 0 16.76 4H7.24a2 2 0 0 0-1.79 1.11z"></path></svg> <span>Inbox</span>
+                                </a>
+                            </div>
+                            <div class="dropdown-item">
+                                <a href="javascript:void(0);">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-lock"><rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect><path d="M7 11V7a5 5 0 0 1 10 0v4"></path></svg> <span>Lock Screen</span>
+                                </a>
+                            </div>
+                            <div class="dropdown-item">
+                                <a href="javascript:void(0);">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-log-out"><path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"></path><polyline points="16 17 21 12 16 7"></polyline><line x1="21" y1="12" x2="9" y2="12"></line></svg> <span>Log Out</span>
+                                </a>
+                            </div>
+                        </div>
+
+                    </li>
+                </ul>
+            </header>
+        </div>
+        <!--  END NAVBAR  -->
+
+        <!--  BEGIN MAIN CONTAINER  -->
+        <div class="main-container " id="container">
+
+            <div class="overlay"></div>
+            <div class="search-overlay"></div>
+
+            <!--  BEGIN SIDEBAR  -->
+        <div class="sidebar-wrapper sidebar-theme">
+
+            <nav id="sidebar">
+
+                <div class="navbar-nav theme-brand flex-row  text-center">
+                    <div class="nav-logo">
+                        <div class="nav-item theme-logo">
+                            <a href="./index.html">
+                                <img src="../src/assets/img/logo.svg" class="navbar-logo" alt="logo">
+                            </a>
+                        </div>
+                        <div class="nav-item theme-text">
+                            <a href="./index.html" class="nav-link"> SERVITECH </a>
+                        </div>
+                    </div>
+                    <div class="nav-item sidebar-toggle">
+                        <div class="btn-toggle sidebarCollapse">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevrons-left"><polyline points="11 17 6 12 11 7"></polyline><polyline points="18 17 13 12 18 7"></polyline></svg>
+                        </div>
+                    </div>
+                </div>
+                <div class="shadow-bottom"></div>
+                <ul class="list-unstyled menu-categories" id="accordionExample">
+                    <li class="menu ">
+                        <a href="#dashboard" data-bs-toggle="collapse" aria-expanded="true" class="dropdown-toggle">
+                            <div class="">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-home"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg>
+                                <span>Dashboard</span>
+                            </div>
+                            <div>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-right"><polyline points="9 18 15 12 9 6"></polyline></svg>
+                            </div>
+                        </a>
+                        <ul class="collapse submenu list-unstyled show" id="dashboard" data-bs-parent="#accordionExample">
+                            <li>
+                                <a href="./index.html"> Analytics </a>
+                            </li>
+                            <li >
+                                <a href="./index2.html"> Sales </a>
+                            </li>
+                        </ul>
+                    </li>
+
+                    <li class="menu menu-heading">
+                        <div class="heading"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-minus"><line x1="5" y1="12" x2="19" y2="12"></line></svg><span>APPLICATIONS</span></div>
+                    </li>
+
+                    <li class="menu active">
+                        <a href="./table-inspection.html"  aria-expanded="false" class="dropdown-toggle">
+                            <div class="">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-layout"><rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect><line x1="3" y1="9" x2="21" y2="9"></line><line x1="9" y1="21" x2="9" y2="9"></line></svg>
+                                <span>Inspections</span>
+                            </div>
+                        </a>
+                    </li>
+
+                    <li class="menu ">
+                        <a href="app-certificate.html" aria-expanded="false" class="dropdown-toggle">
+                            <div class="">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-layout"><rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect><line x1="3" y1="9" x2="21" y2="9"></line><line x1="9" y1="21" x2="9" y2="9"></line></svg>
+                                <span>Certificate</span>
+                            </div>
+                        </a>
+                    </li>
+
+                    <li class="menu">
+                        <a href="./app-mailbox.html" aria-expanded="false" class="dropdown-toggle">
+                            <div class="">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-mail"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg>
+                                <span>Mailbox</span>
+                            </div>
+                        </a>
+                    </li>
+
+                    <li class="menu">
+                        <a href="./app-contacts.html" aria-expanded="false" class="dropdown-toggle">
+                            <div class="">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-map-pin"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                                <span>Contacts</span>
+                            </div>
+                        </a>
+                    </li>
+                             <li class="menu">
+                            <a href="#invoice" data-bs-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                                <div class="">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-dollar-sign"><line x1="12" y1="1" x2="12" y2="23"></line><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"></path></svg>
+                                    <span>Invoice</span>
+                                </div>
+                                <div>
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-right"><polyline points="9 18 15 12 9 6"></polyline></svg>
+                                </div>
+                            </a>
+                            <ul class="collapse submenu list-unstyled" id="invoice" data-bs-parent="#accordionExample">
+                                <li>
+                                    <a href="./app-invoice-list.html"> List </a>
+                                </li>
+                                <li>
+                                    <a href="./app-invoice-preview.html"> Preview </a>
+                                </li>
+                                <li>
+                                    <a href="./app-invoice-add.html"> Add </a>
+                                </li>
+                                <li>
+                                    <a href="./app-invoice-edit.html"> Edit </a>
+                                </li>
+                            </ul>
+                        </li>
+
+                        <li class="menu">
+                            <a href="#soumission" data-bs-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                                <div class="">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-dollar-sign"><line x1="12" y1="1" x2="12" y2="23"></line><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"></path></svg>
+                                    <span>soumission</span>
+                                </div>
+                                <div>
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-right"><polyline points="9 18 15 12 9 6"></polyline></svg>
+                                </div>
+                            </a>
+                            <ul class="collapse submenu list-unstyled" id="soumission" data-bs-parent="#accordionExample">
+                                <li>
+                                    <a href="./app-soumission-list.html"> List </a>
+                                </li>
+                                <li>
+                                    <a href="./app-soumission-preview.html"> Preview </a>
+                                </li>
+                                <li>
+                                    <a href="./app-soumission-add.html"> Add </a>
+                                </li>
+                                <li>
+                                    <a href="./app-soumission-edit.html"> Edit </a>
+                                </li>
+                            </ul>
+                        </li>
+
+
+            </div>
+                    </body>
+                    </html>
+            <!--  END SIDEBAR  -->
+
+            <!--  BEGIN CONTENT AREA  -->
+            <div id="content" class="main-content">
+                <div class="layout-px-spacing">
+
+                    <div class="middle-content">
+
+                        <!-- BREADCRUMB -->
+                            <div class="page-meta">
+                                <nav class="breadcrumb-style-one" aria-label="breadcrumb">
+                                    <ol class="breadcrumb">
+                                        <li class="breadcrumb-item"><a href="#">Inspections</a></li>
+                                    </ol>
+                                </nav>
+                            </div>
+                        <!-- /BREADCRUMB -->
+                        <div style="height: 3vh;"></div>
+                        <form id="contactForm" method="post" action="submit.php" enctype="multipart/form-data" class="row g-3">
+                            <div class="col-md-6">
+                                <label for="Name_Ins" class="form-label">Nom</label>
+                                <input type="text" class="form-control" name="Name_Ins" id="Name_Ins">
+                            </div>
+                            <div class="col-md-6">
+                                <label for="Order_Ins" class="form-label">Commande Par</label>
+                                <input type="text" class="form-control" name="Order_Ins" id="Order_Ins">
+                            </div>
+                            <div class="col-12">
+                                <label for="inputAddress_Ins" class="form-label">Address</label>
+                                <input type="text" class="form-control" name="inputAddress_Ins" id="inputAddress_Ins" placeholder="1234 Main St">
+                            </div>
+                            <div class="col-md-6">
+                                <label for="inputCity" class="form-label">City</label>
+                                <input type="text" class="form-control" name="inputCity" id="inputCity">
+                            </div>
+                            <div class="col-md-6">
+                                <label for="inputZip" class="form-label">Zip</label>
+                                <input type="text" class="form-control" name="inputZip" id="inputZip">
+                            </div>
+                            <div class="col-md-6">
+                                <label for="Invoice_Ins" class="form-label">Numero de facture</label>
+                                <input type="text" class="form-control" name="Invoice_Ins" id="Invoice_Ins" placeholder="#">
+                            </div>
+                            <div class="col-md-6">
+                                <label for="inspector_Ins" class="form-label">Inspecté Par</label>
+                                <input type="text" class="form-control" name="inspector_Ins" id="inspector_Ins">
+                            </div>
+                            <div class="col-md-6">
+                                <label for="date_Ins" class="form-label">Date D'inspection</label>
+                                <input type="text" class="form-control" name="date_Ins" id="date_Ins" placeholder="mm/dd/yy">
+                            </div>
+                            <div class="col-md-6">
+                                <label for="Emplacement_Ins" class="form-label">Emplacement</label>
+                                <input type="text" class="form-control" name="Emplacement_Ins" id="Emplacement_Ins">
+                            </div>
+                            <div class="col-md-6">
+                                <label for="Palan_Ins" class="form-label">Palan</label>
+                                <input type="text" class="form-control" name="Palan_Ins" id="Palan_Ins">
+                            </div>
+                            <div class="col-md-6">
+                                <label for="Model_Ins" class="form-label">Model</label>
+                                <input type="text" class="form-control" name="Model_Ins" id="Model_Ins">
+                            </div>
+                            <div class="col-md-3">
+                                <label for="Chaine_Ins" class="form-label">Chaine</label>
+                                <input type="text" class="form-control" name="Chaine_Ins" id="Chaine_Ins">
+                            </div>
+                            <div class="col-md-3">
+                                <label for="Capacité_Ins" class="form-label">Capacité</label>
+                                <input type="text" class="form-control" name="Capacité_Ins" id="Capacité_Ins">
+                            </div>
+                            <div class="col-md-3">
+                                <label for="Serie_Ins" class="form-label">Série</label>
+                                <input type="text" class="form-control" name="Serie_Ins" id="Serie_Ins">
+                            </div>
+                            <div class="col-md-3">
+                                <label for="manufacturier_Ins" class="form-label">Manufacturier</label>
+                                <input type="text" class="form-control" name="manufacturier_Ins" id="manufacturier_Ins">
+                            </div>
+                            <div class="col-12">
+                                <button type="submit" name="valid" class="btn btn-primary" id="valid">Validate</button>
+                            </div>
+
+                        </form>
+
+                        <div style="height: 10vh;"></div>
+
+                        <div class="table-responsive">
+                            <table class="table table-bordered" id="myTable" >
+                                <thead>
+
+                                    <tr>
+                                        <th class="checkbox-area" scope="col">
+                                            #
+                                        </th>
+                                        <th>items</th>
+                                        <th scope="col">description</th>
+                                        <th class="checkbox-area" scope="col">
+                                            Image
+                                        </th>
+                                        <th class="checkbox-area" scope="col">
+                                            Chariot
+                                        </th>
+                                        <th class="checkbox-area" scope="col">
+                                            Pont
+                                        </th>
+                                        <th class="checkbox-area" scope="col">
+                                            Palan
+                                        </th>
+                                    </tr>
+                                </thead>
+                                <form method="post" action="submit.php" enctype="multipart/form-data">
+                                    <tbody>
+
+
+
+
+                                    </tbody>
+
+                                </form>
+
+
+
+                            </table>
+                            <script>
+
+                            </script>
+                            <button class="btn btn-primary" onclick="addRow()">Add New Row</button>
+
+                        </div>
+
+
+                    </div>
+
+
+                </div>
+
+                <div class="footer-wrapper">
+                    <div class="footer-section f-section-1">
+                        <p class="">Copyright © <span class="dynamic-year">2022</span> <a target="_blank" href="https://designreset.com/cork-admin/">DesignReset</a>, All rights reserved.</p>
+                    </div>
+                    <div class="footer-section f-section-2">
+                        <p class="">Coded with <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-heart"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path></svg></p>
+                    </div>
+                </div>
+
+            </div>
+            <!--  END CONTENT AREA  -->
+
+        </div>
+        <!-- END MAIN CONTAINER -->
+
+        <!-- BEGIN GLOBAL MANDATORY SCRIPTS -->
+        <script src="../src/plugins/src/global/vendors.min.js"></script>
+        <script src="../src/bootstrap/js/bootstrap.bundle.min.js"></script>
+        <script src="../src/plugins/src/perfect-scrollbar/perfect-scrollbar.min.js"></script>
+        <script src="../src/plugins/src/mousetrap/mousetrap.min.js"></script>
+        <script src="../src/plugins/src/waves/waves.min.js"></script>
+        <script src="../layouts/collapsible-menu/app.js"></script>
+        <!-- END GLOBAL MANDATORY SCRIPTS -->
+        <script>
+            function addRow() {
+                // Get the table's tbody by its parent form
+                var tbody = document.getElementById('myTable').getElementsByTagName('tbody')[0];
+
+                var nextID = tbody.getElementsByTagName('tr').length + 1;
+                // Create a new row and cells
+                var newRow = tbody.insertRow(-1);
+
+                // Create cells for the new row
+                var cell1 = newRow.insertCell(0);
+                var cell2 = newRow.insertCell(1);
+                var cell3 = newRow.insertCell(2);
+                var cell4 = newRow.insertCell(3);
+                var cell5 = newRow.insertCell(4);
+                var cell6 = newRow.insertCell(5);
+                var cell7 = newRow.insertCell(6);
+
+                // Set content for each cell
+                cell1.innerHTML = nextID; // Placeholder for ID
+                cell2.innerHTML = '<input class="form-control" aria-label="With textarea"></input>';
+                cell3.innerHTML = `
+                    <div class="input-group">
+                        <input class="form-control" name="description" aria-label="With textarea"></input>
+                    </div>
+                `;
+                cell4.innerHTML = `
+                    <div class="image_input">
+                        <input type="file" name="imageUpload" id="imageInput" accept="image/*" onchange="previewImage(event)" style="display: none;">
+                        <label for="imageInput" class="custom-file-label">Upload Image</label>
+                        <img id="imagePreview" src="" alt="Image Preview" style="max-width: 100px; display: none;" onclick="changeImage()">
+                    </div>
+                `;
+                cell5.innerHTML = `
+                    <div class="form-check form-check-primary">
+                        <input class="form-check-input checkbox_child" type="checkbox" name="chariot_tb" value="">
+                    </div>
+                `;
+                cell6.innerHTML = `
+                    <div class="form-check form-check-primary">
+                        <input class="form-check-input checkbox_child" type="checkbox" name="pont_tb" value="">
+                    </div>
+                `;
+                cell7.innerHTML = `
+                    <div class="form-check form-check-primary">
+                        <input class="form-check-input checkbox_child" type="checkbox" name="palan_tb" value="">
+                    </div>
+                `;
+                    // Assign a unique identifier to the row
+                    var uniqueId = 'row_' + new Date().getTime();
+                        newRow.id = uniqueId;
+
+                        var cell8 = newRow.insertCell(7);
+                        cell8.innerHTML = '<button class="btn btn-primary" onclick="deleteRow(\'' + uniqueId + '\')">Delete</button>';
+                    }
+
+                    function deleteRow(rowId) {
+                        // Get the row by its unique identifier
+                        var row = document.getElementById(rowId);
+
+                        // Remove the row from the table
+                        if (row) {
+                            row.parentNode.removeChild(row);
+                        }
+                    }
+
+                    // Asynchronous Image Upload
+                    function handleImageUpload(event) {
+                        var imageInput = event.target;
+                        var imagePreview = document.getElementById('imagePreview');
+
+                        var formData = new FormData();
+                        formData.append('imageInput', imageInput.files[0]);
+
+                        fetch('submit.php', {
+                            method: 'POST',
+                            body: formData
+                        })
+                            .then(response => response.text())
+                            .then(data => {
+                                console.log(data);
+                                // Handle the response message here if needed
+                            })
+                            .catch((error) => {
+                                console.error('Error:', error);
+                            });
+                    }
+
+
+
+
+        </script>
+        <script src="../src/plugins/src/editors/quill/quill.js"></script>
+        <script src="../src/plugins/src/sweetalerts2/sweetalerts2.min.js"></script>
+        <script src="../src/plugins/src/notification/snackbar/snackbar.min.js"></script>
+        <script src="../src/assets/js/apps/mailbox.js"></script>
+    </body>
+    </html>

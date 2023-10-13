@@ -1,0 +1,35 @@
+﻿@font-face {
+  font-family: 'Teko';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(s/teko/v16/LYjCdG7kmE0gdQhfsCRgrQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Teko';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/teko/v16/LYjNdG7kmE0gfaN9oA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Teko';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(s/teko/v16/LYjCdG7kmE0gdVBesCRgrQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Teko';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(s/teko/v16/LYjCdG7kmE0gdXxZsCRgrQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Teko';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/teko/v16/LYjCdG7kmE0gdRhYsCRgrQ.ttf) format('truetype');
+}
